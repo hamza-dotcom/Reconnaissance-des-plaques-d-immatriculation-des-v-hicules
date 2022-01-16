@@ -28,5 +28,3 @@ Utilisez le script "run.sh" pour exécuter notre approche ALPR. Il requiert 3 ar
 
 
 
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
